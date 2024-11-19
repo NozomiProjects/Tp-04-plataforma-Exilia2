@@ -14,7 +14,6 @@ public class TestAltUnity
         System.Threading.Thread.Sleep(3000);
         // Inicializa una nueva instancia de AltDriver para controlar el juego durante las pruebas
         altDriver = new AltDriver();
-
     }
 
     // Este metodo se ejecuta una sola vez despues de que todas las pruebas hayan terminado

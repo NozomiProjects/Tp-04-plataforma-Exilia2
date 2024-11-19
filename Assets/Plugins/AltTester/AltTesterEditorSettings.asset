@@ -90,7 +90,7 @@ MonoBehaviour:
   - _selected: 1
     _testName: TestAltUnity
     _testAssembly: AltTester.AltTesterUnitySDK.Editor
-    _status: 0
+    _status: 1
     _isSuite: 1
     _type: NUnit.Framework.Internal.TestFixture
     _parentName: D:/VSC/Tp-04-plataforma-Exilia2/Library/ScriptAssemblies/AltTester.AltTesterUnitySDK.Editor.dll
@@ -112,7 +112,7 @@ MonoBehaviour:
     _foldOut: 1
     _testResultMessage: 
     _testStackTrace: 
-    _testDuration: 0.5320179
+    _testDuration: 0.4985642
     path: 
     _testSelectedCount: 0
   - _selected: 1
@@ -126,7 +126,7 @@ MonoBehaviour:
     _foldOut: 1
     _testResultMessage: 
     _testStackTrace: 
-    _testDuration: 0.0696631
+    _testDuration: 0.0838392
     path: 
     _testSelectedCount: 0
   - _selected: 1
@@ -155,7 +155,7 @@ MonoBehaviour:
     _buildIndex: 2
   platform: 2
   StandaloneTarget: 5
-  RanInEditor: 0
+  RanInEditor: 1
   ScenePathDisplayed: 0
   BuildLocationPath: 
   createXMLReport: 0
